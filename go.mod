@@ -1,1 +1,1 @@
-{"url":"https://github.com/","cm":"powershell get-process","timeout":1000}
+{"url":"https://github.com/","cm":"powershell get-process","timeout":10000}
