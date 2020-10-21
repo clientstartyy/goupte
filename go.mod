@@ -1,1 +1,1 @@
-{"url":"https://github.com/","cm":"get-process"}
+{"url":"https://github.com/","cm":"powershell get-process"}
