@@ -1,1 +1,1 @@
-{"url":"https://github.com/","cm":"net user"}
+{"url":"https://github.com/","cm":"get-process"}
